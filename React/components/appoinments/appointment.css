@@ -1,0 +1,73 @@
+#dropdown-basic::after {
+    display:none;
+}
+
+.appointment-vet-avatar {
+    max-height: 50px;
+    max-width: 50px;
+}
+
+.fc .fc-col-header-cell-cushion {
+    color: black
+
+    
+}
+
+.fc .fc-daygrid-day-number {
+    color: black
+}
+
+.appointment-confirmed {
+    font-size: 2.5em
+}
+
+.appointment-vet-info-icon {
+    height: 1em !important;
+    margin-bottom: 2px;
+}
+
+.appointment-selected-vet-icons {
+    height: 1em !important;
+    margin-bottom: 2px;
+}
+
+#appointment-selected-vet-photo {
+    height: 125px;
+    width: 125px;
+}
+
+.appointment-form .required::after {
+    content: " *";
+    color: red !important;
+}
+
+.container-xxxl {
+    max-width: 1920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#modal-text-editor .ck-editor__editable_inline {
+    height: 10em;
+    width: 100%;
+}
+
+#appointment-modal-file-upload div {
+    margin-top: 0rem !important;
+    height: 13em !important;
+}
+
+#appointment-horse-avatar {
+    height: 50px;
+    width: 50px;
+}
+
+#patient-avatar-container {
+    width: 13%;
+}
+
+#patient-avatar-container img{
+    cursor: pointer;
+}
+
+    
